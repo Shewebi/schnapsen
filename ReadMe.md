@@ -1,15 +1,9 @@
-/* Hinweise zum Kompilieren */
-Zum Kompilieren nutze ich normalerweise G++, dementsprechend
-setzen auch die Befehle im beiliegenden Batchskript auf G++
-bzw. hier konkret auf die MinGW-Variante, denn Game.hpp
-bindet windows.h ein.
+## Hinweise zum Kompilieren
+Zum Kompilieren nutze ich normalerweise G++, dementsprechend setzen auch die Befehle im beiliegenden Batchskript auf G++ bzw. hier konkret auf die  MinGW-Variante, denn Game.hpp bindet windows.h ein.
 Die vorkompilierte Schnapsen.exe sollte aber problemlos laufen.
 
-/* Regeln */
-Die Regeln sind anders als die, die man z.B. in dem Wikipedia-
-artikel findet, stattdessen sind sie, wie ich das Spiel von 
-meiner Familie kenne, nur der Einfachheit halber mit den hier
-üblichen Farben.
+## Regeln
+Die Regeln sind anders als die, die man z.B. in dem Wikipediaartikel findet, stattdessen sind sie, wie ich das Spiel von meiner Familie kenne, nur der Einfachheit halber mit den hier üblichen Farben.
 
 - Am Anfang ziehen beide Spieler 4 Karten
 - In der ersten Runde fängt Spieler 1 an, danach abwechselnd
